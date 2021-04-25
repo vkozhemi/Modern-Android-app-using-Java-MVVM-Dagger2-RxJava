@@ -11,17 +11,16 @@ Learn the latest Android technologies including Dagger2, MVVM, Java, RxJava, Ret
 
 ## Usage
 1. Clone repository:
-- git clone https://github.com/vkozhemi/WebView.git
-2. cd WebView
+- git clone https://github.com/vkozhemi/Modern-Android-app-using-Java-MVVM-Dagger2-RxJava.git
+2. cd Modern-Android-app-using-Java-MVVM-Dagger2-RxJava
 3. Install apk on device, run command in terminal:
-- adb install WebNews.apk
+- adb install Countries.apk
 
 ## Example
 
 ### portrait
-<img src="https://github.com/vkozhemi/WebView/blob/main/img/WebNews1.jpg" width="700">
-<img src="https://github.com/vkozhemi/WebView/blob/main/img/WebNews2.jpg" width="700">
+<img src="https://github.com/vkozhemi/Modern-Android-app-using-Java-MVVM-Dagger2-RxJava/blob/main/img/CountriesApp1.jpg" width="700">
+<img src="https://github.com/vkozhemi/Modern-Android-app-using-Java-MVVM-Dagger2-RxJava/blob/main/img/CountriesApp2.jpg" width="700">
 
 ### landscape
-<img src="https://github.com/vkozhemi/WebView/blob/main/img/WebNews3.jpg" width="700">
-<img src="https://github.com/vkozhemi/WebView/blob/main/img/WebNews4.jpg" width="700">
+<img src="https://github.com/vkozhemi/Modern-Android-app-using-Java-MVVM-Dagger2-RxJava/blob/main/img/CountriesApp3.jpg" width="700">
